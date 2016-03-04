@@ -1,0 +1,45 @@
+{
+        "image1":
+            {
+                    "path": "images/fioegi.jpg",
+                    "width": "",
+                    "height": "",
+                    "text": "fio egípcio",
+                    "sobre": "fio importante" 
+             },
+        "image2":
+            {
+                    "path": "images/tinta-hena.png",
+                    "width": "",
+                    "height": "",
+                    "text": "tinta rena"
+            },  
+        "image3":
+            {
+                    "path": "images/micropigmentacao-2.jpg",
+                    "width": "",
+                    "height": "",
+                    "text":  "micropigmentação"
+             },
+        "image4":
+            {
+                    "path": "images/sobrancelha-4.jpg",
+                    "width": "",
+                    "height": "",
+                    "text": "dermopigmentação"
+            },
+        "image5":
+            {
+                    "path": "images/sobrancelha-2.jpg",
+                    "width": "",
+                    "height": "",
+                    "text":   "microblanding"   
+            },
+        "image6":
+            {
+                    "path": "images/sobrancelha-5.jpg",
+                    "width": "",
+                    "height": "",
+                    "text":   "esfumada"   
+            }
+}
